@@ -10,7 +10,11 @@
 ---
 #### In this study, 5 different data sets were used. These datasets are made by the countries of Australia, Canada, France, Germany, Italy, Japan, Netherlands, Spain, Turkey, United Kingdom, United States, Argentina, Brazil, China, India, and Saudi Arabia from the first quarter of 2018 to the first quarter of 2021. It includes the import and export data of each quarter in terms of millions of dollars. The datasets consist of 8 columns and approximately 206 rows. While taking the data set, the countries were selected according to their location and economic power. Other than that, unnecessary data were removed from the data set. In addition, unnecessary columns and blank lines will be removed.
 
+### Presentation Video and Link
+---
+https://drive.google.com/file/d/1Yk3HpbuAeniW526VHosVAvUWZG4a33gO/view?usp=sharing
 ### References
+---
 * https://data.oecd.org/trade/trade-in-goods.htm#indicator-chart  *the data of trade in goods around the world*
 * https://data.oecd.org/trade/trade-in-services.htm#indicator-chart *the data of trade in services around the world*
 * https://data.oecd.org/trade/trade-in-goods-and-services.htm#indicator-chart *the data of net trade in good and services around world*
