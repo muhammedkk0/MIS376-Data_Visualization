@@ -20,3 +20,5 @@
 * https://data.oecd.org/trade/trade-in-services.htm#indicator-chart *the data of trade in services around the world*
 * https://data.oecd.org/trade/trade-in-goods-and-services.htm#indicator-chart *the data of net trade in good and services around world*
 * https://data.oecd.org/gdp/gross-domestic-product-gdp.htm *the data of GDP of countries*
+
+### Muhammed KOK - 16030411055
