@@ -12,7 +12,8 @@
 
 ### Presentation Video and Link
 ---
-* https://drive.google.com/file/d/1DqSa0Et4KL6zltYY7NPMp-nWQohmARpI/view?usp=sharing
+* https://drive.google.com/file/d/1KY3GSlxJEB0Io_U9MJESJna90wPKU5GK/view?usp=sharing *Video*
+* https://drive.google.com/file/d/1DqSa0Et4KL6zltYY7NPMp-nWQohmARpI/view?usp=sharing *Presentation*
 ### References
 ---
 * https://data.oecd.org/trade/trade-in-goods.htm#indicator-chart  *the data of trade in goods around the world*
